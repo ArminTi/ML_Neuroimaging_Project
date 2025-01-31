@@ -1,5 +1,8 @@
 # Data_Driven_Methods_in_Neuroimaging
 
+Rational: Practicing data_driven methods (e.g., MKL and ANN) in neuroimaging with a 146 rsfMRI dataset, using MATLAB and Python
+
+## Fellow Chart of Data Analysis
 1. 146 resting State fMRI data (Parkinson vs Healthy population): Data Link: https://www.ppmi-info.org/
 2. Pre-processing and denosing with CONN
 3. Applying Mask from Harvard-Oxford atlas 
