@@ -13,5 +13,9 @@ Visual.Occipital (0,-93,-4)
 Visual.Lateral (L) (-37,-79,10)
 Visual.Lateral (R) (38,-72,13)
 
-5. Extract Features to excel shit (name FC_Armin)
+5. Extract Features to excel shit (name PC_fC_cleaned.csv)
+6. Visualizing Data: Identify Outliers, Normalization, Relationship Between Correlation Parameters
+7. Fitting Linear Models: 
+9. به
+10. مه
 
