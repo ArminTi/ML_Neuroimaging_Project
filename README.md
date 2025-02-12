@@ -18,4 +18,4 @@ Visual.Lateral (R) (38,-72,13)
 
 5. Extract Functional Connectivity Features to excel shit (name PC_fC_cleaned.csv)
 6. Visualizing Data: Identify Outliers, Normalization, Relationship Between Correlation Parameters (Visualization.ipynb)
-7. Fitting Linear Models:
+7. Fitting Linear Models: (Classification.ipynb)
